@@ -18,4 +18,5 @@ Sử dụng ASP.NET, HTML,CSS,Bootstrap,JQuery, MS SQL server
 
 # Lưu ý: 
 - Link repository: https://github.com/DavidMaxvn/DoAnCSharp-SGU/
-- Link video demo: <iframe src="https://drive.google.com/file/d/19IioqYZsi4WnFOncRgqvTMJoSish5JRI/preview" width="640" height="480" allow="autoplay"></iframe> 
+- Link video demo:
+<iframe src="https://drive.google.com/file/d/19IioqYZsi4WnFOncRgqvTMJoSish5JRI/preview" width="640" height="480" allow="autoplay"></iframe> 
