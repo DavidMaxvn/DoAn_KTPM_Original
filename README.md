@@ -17,5 +17,5 @@ Sử dụng ASP.NET, HTML,CSS,Bootstrap,JQuery, MS SQL server
 ![alt text](./img/admin_dashboard.jpeg)
 
 # Lưu ý: 
-- Link repository: https://github.com/DavidMaxvn/DoAnCSharp-SGU/
+- Link repository: https://github.com/DavidMaxvn/DoAn-CSharp-SGU/
 - Link video demo: https://drive.google.com/file/d/19IioqYZsi4WnFOncRgqvTMJoSish5JRI/preview
