@@ -25,6 +25,8 @@ namespace AppData.ViewModels
 
         [Required(ErrorMessage = "Vui lòng nhập mật khẩu")]
         [MinLength(8, ErrorMessage = "Mật khẩu phải ít nhất 8 ký tự")]
+        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[A-Za-z\d@$!%*?&]{8,}$",
+        ErrorMessage = "Mật khẩu phải:<br>- Có ít nhất 8 ký tự<br>- Bao gồm chữ hoa<br>- Bao gồm chữ thường<br>- Bao gồm ít nhất một chữ số")]
         public string? Password { get; set; }
         [Required(ErrorMessage = "Vui lòng nhập lại mật khẩu")]
         [Compare("Password", ErrorMessage = "Mật khẩu và nhập lại mật khẩu không khớp")]
